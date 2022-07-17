@@ -1,6 +1,23 @@
 # wecode_numbers
 
-A new Flutter project.
+## The numbers app
+put a number and receive an intresting fact about the number
+
+### TODO 
+- [x] init
+- [x] folder structure
+- [ ] Design the landing page
+- [ ] Test on postman 
+- [ ] From the json create the data model
+- [ ] Text input from user
+- [ ] Implement the get request(number input)
+- [ ] Convert it to data Model 
+- [ ] Show to the user 
+
+
+## API 
+http://numbersapi.com/#195/math
+
 
 ## Getting Started
 
